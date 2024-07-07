@@ -31,7 +31,7 @@ sudo ./cpuminer -a yescrypt -o stratum+tcp://yescrypt.asia.mine.zergpool.com:623
 ```
   * ✓ UIS Unitus Network yescrypt (XeggeX)
 ```
-sudo ./cpuminer -a yescrypt -o stratum+tcp://yescrypt.asia.mine.zergpool.com:6233 -u URnpSzaAUAntTfHE2rUytJSftMCrXjewyJ -p c=UIS,mc=UIS,ID=M20
+sudo ./cpuminer -a yescrypt -o stratum+tcp://yescrypt.na.mine.zergpool.com:6233 -u URnpSzaAUAntTfHE2rUytJSftMCrXjewyJ -p c=UIS,mc=UIS,ID=M20
 goto start
 ```
 

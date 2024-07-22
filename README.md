@@ -32,5 +32,23 @@ sudo ./cpuminer -a yescrypt -o stratum+tcp://yescrypt.asia.mine.zergpool.com:623
 ```
 sudo ./cpuminer -a yescrypt -o stratum+tcp://yescrypt.na.mine.zergpool.com:6233 -u URnpSzaAUAntTfHE2rUytJSftMCrXjewyJ -p c=UIS,mc=UIS,ID=M20
 ```
+  * ✓ FNNC Fennec Network yescryptR16 (XeggeX)
+```
+sudo ./cpuminer -a yescryptR16 -o stratum+tcp://yescryptR16.asia.mine.zergpool.com:6333 -u Fmb7a3Jmfy9TytP2rrLLJaC5GyA4TfjhbF -p c=FNNC,mc=FNNC,ID=MSI15
+```
+  * ✓ QCH Questchain Network yespower (XeggeX)
+```
+sudo ./cpuminer -a yespower -o stratum+tcp://yespower.asia.mine.zergpool.com:6533 -u Qf2ugpEDdBFfYWYeiX4sHRGBiamTAxXhZA -p c=QCH,mc=QCH,ID=MSI15
+```
  
 ## Command line for Xmrig
+
+#### https://pool.rplant.xyz/
+  * ✓ MNN Mangonote ramdomx (XeggeX)
+```
+sudo ./xmrig -a randomx --url randomx.rplant.xyz:7020 --user amyKzM9cdMgZsP4Er2UxeBQqkydqMJjUgGaEg5ojy4TCFXQxNFVk1mC2Q2WqKqJaiA97svTwocE4T91K6HSocwoi8vQhPNjhGg.MSI15
+```
+  * ✓ TABO Tabo ramdomx (XeggeX)
+```
+sudo ./xmrig -a randomx --url randomx.rplant.xyz:7107 --user TBs1Xk98Tgd3hrrmGoeToo8EFUffBzZraNz8VDmr4nGyNyg96QN9zV7AWogTnchrFhSAA2B3wZZQoTihEqdGy3MS8dD1iriPZL.MSI15
+```

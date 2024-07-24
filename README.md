@@ -19,9 +19,13 @@ sudo ./cpuminer -a yespowerr16 -o stratum+tcp://stratum-asia.rplant.xyz:3383 -u 
 ```
 sudo ./cpuminer -a yespowerr16 -o stratum+tcp://stratum-na.rplant.xyz:3382 -u YcuHx1v7JTSfq3TS8A4PVaY1YqVMHbS3pU.MSI15
 ```
-* ✓ GOLD Gold Cash yescryptR16 (XeggeX)
+  * ✓ GOLD Gold Cash yescryptR16 (XeggeX)
 ```
 sudo ./cpuminer -a yescryptr16 -o stratum+tcp://stratum-na.rplant.xyz:17057 -u GfEfpTrBWs9zT9CGWyWASph48N97y6STed.MSI15
+```
+  * ✓ QCH QuestChain yespower (XeggeX)
+```
+sudo ./cpuminer -a yespower  -o stratum+tcp://stratum-na.rplant.xyz:7122 -u Qf2ugpEDdBFfYWYeiX4sHRGBiamTAxXhZA.MSI15
 ```
 #### https://zergpool.com/
   * ✓ BSTY GlobalBoost-Y Network yescrypt wallet_Probit

@@ -56,3 +56,7 @@ sudo ./xmrig -a randomx --url randomx.rplant.xyz:7020 --user amyKzM9cdMgZsP4Er2U
 ```
 sudo ./xmrig -a randomx --url randomx.rplant.xyz:7107 --user TBs1Xk98Tgd3hrrmGoeToo8EFUffBzZraNz8VDmr4nGyNyg96QN9zV7AWogTnchrFhSAA2B3wZZQoTihEqdGy3MS8dD1iriPZL.MSI15
 ```
+  * ✓ SAL Salvium ramdomx (XeggeX)
+```
+sudo ./xmrig -a randomx --url randomx.rplant.xyz:7130 --user SaLvsCMzWHr9WRb8w2jEU4Gmu7siNMZsVCP1HBZrZMTFLTHagkPPRrQ2eX4C9LUsAk6vw2DnJm3sUcU84KLwx4RmBAgk4GULdyV.MSI15
+```

@@ -60,3 +60,7 @@ sudo ./xmrig -a randomx --url randomx.rplant.xyz:7107 --user TBs1Xk98Tgd3hrrmGoe
 ```
 sudo ./xmrig -a randomx --url randomx.rplant.xyz:7130 --user SaLvsCMzWHr9WRb8w2jEU4Gmu7siNMZsVCP1HBZrZMTFLTHagkPPRrQ2eX4C9LUsAk6vw2DnJm3sUcU84KLwx4RmBAgk4GULdyV.MSI15
 ```
+* ✓ RVN Ravencoin Kawpow (Binance)
+```
+sudo ./xmrig --opencl --no-cpu -a kawpow -o asia-rvn.2miners.com:6060 -u RADcrJWKX78WvioQyAKhZNdqAL8Q8QCSYD.AMD01 -p x
+```

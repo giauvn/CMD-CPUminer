@@ -27,6 +27,10 @@ sudo ./cpuminer -a yescryptr16 -o stratum+tcp://stratum-na.rplant.xyz:17057 -u G
 ```
 sudo ./cpuminer -a yespower  -o stratum+tcp://stratum-na.rplant.xyz:7122 -u Qf2ugpEDdBFfYWYeiX4sHRGBiamTAxXhZA.MSI15
 ```
+  * ✓ TDC TideCoin yespowerTIDE (XeggeX)
+```
+sudo ./cpuminer -a yespowertide  -o stratum+tcp://stratum-asia.rplant.xyz:7059 -u TJvrFuL8rDRvRESCdhQxc2kHdDNYRGq8Kz.M20
+```
 #### https://zergpool.com/
   * ✓ BSTY GlobalBoost-Y Network yescrypt wallet_Probit
 ```

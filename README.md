@@ -64,7 +64,11 @@ sudo ./xmrig -a randomx --url randomx.rplant.xyz:7107 --user TBs1Xk98Tgd3hrrmGoe
 ```
 sudo ./xmrig -a randomx --url randomx.rplant.xyz:7130 --user SaLvsCMzWHr9WRb8w2jEU4Gmu7siNMZsVCP1HBZrZMTFLTHagkPPRrQ2eX4C9LUsAk6vw2DnJm3sUcU84KLwx4RmBAgk4GULdyV.MSI15
 ```
-* ✓ RVN Ravencoin Kawpow (Binance)
+  * ✓ RVN Ravencoin Kawpow (Binance)
 ```
 sudo ./xmrig --opencl --no-cpu -a kawpow -o asia-rvn.2miners.com:6060 -u RADcrJWKX78WvioQyAKhZNdqAL8Q8QCSYD.AMD01 -p x
+```
+  * ✓ TSK TUSKE ramdomx (XeggeX) TuskeMiner : https://drive.google.com/file/d/1EGFRQhrRyS-ZXsZmHUNnMVvd-WjbjmJf/view?usp=sharing
+```
+tuskeminer.exe -a rx/0 --url randomx.rplant.xyz:7123 --user TuskeSyuRH5G5fk9qRZdAC3Ypdmst6gGuRHXgzjTDoh9c6wQqQFJM8S6Nme5F2nPAnhKeqzQrgeWU9TKHbMs2mDrf58CiHTysf9GT2.MSI15
 ```

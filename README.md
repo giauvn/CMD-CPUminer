@@ -27,6 +27,9 @@ sudo ./cpuminer -a yescryptr16 -o stratum+tcp://stratum-na.rplant.xyz:17057 -u G
 ```
 sudo ./cpuminer -a yespower  -o stratum+tcp://stratum-na.rplant.xyz:7122 -u Qf2ugpEDdBFfYWYeiX4sHRGBiamTAxXhZA.MSI15
 ```
+```
+sudo ./cpuminer -a yespower  -o stratum+tcp://stratum-na.rplant.xyz:7122 -u Qj1SzUGV5rRkumAbQ44Uczqd3cmqGaxb8j.Wallet
+```
   * ✓ TDC TideCoin yespowerTIDE (XeggeX)
 ```
 sudo ./cpuminer -a yespowertide  -o stratum+tcp://stratum-asia.rplant.xyz:7059 -u TJvrFuL8rDRvRESCdhQxc2kHdDNYRGq8Kz.M20
@@ -71,4 +74,8 @@ sudo ./xmrig --opencl --no-cpu -a kawpow -o asia-rvn.2miners.com:6060 -u RADcrJW
   * ✓ TSK TUSKE ramdomx (XeggeX) TuskeMiner : https://drive.google.com/file/d/1EGFRQhrRyS-ZXsZmHUNnMVvd-WjbjmJf/view?usp=sharing
 ```
 tuskeminer.exe -a rx/0 --url randomx.rplant.xyz:7123 --user TuskeSyuRH5G5fk9qRZdAC3Ypdmst6gGuRHXgzjTDoh9c6wQqQFJM8S6Nme5F2nPAnhKeqzQrgeWU9TKHbMs2mDrf58CiHTysf9GT2.MSI15
+```
+  * ✓ UTO Ultronai Algorithm:	gr (XeggeX) 
+```
+SRBMiner-MULTI.exe --algorithm ghostrider --pool stratum-na.rplant.xyz:7099 --wallet 1GRdbqwyRWjJURrvYV9jULtNQ8wA8GVAX6.MSI15
 ```

@@ -35,9 +35,14 @@ sudo ./cpuminer -a yespower  -o stratum+tcp://stratum-na.rplant.xyz:7122 -u Qj1S
 sudo ./cpuminer -a yespowertide  -o stratum+tcp://stratum-asia.rplant.xyz:7059 -u TJvrFuL8rDRvRESCdhQxc2kHdDNYRGq8Kz.M20
 ```
 #### https://zergpool.com/
-  * ✓ BSTY GlobalBoost-Y Network yescrypt wallet_Probit
+  * ✓ BSTY GlobalBoost-Y Network yescrypt
+     * wallet_Probit
 ```
 sudo ./cpuminer -a yescrypt -o stratum+tcp://yescrypt.asia.mine.zergpool.com:6233 -u YBxs7DrLHb58VDnB9bi1tXjKWWqawyLMvh -p c=BSTY,mc=BSTY,ID=M20
+```
+     * Wallet Cold
+```
+sudo ./cpuminer -a yescrypt -o stratum+tcp://yescrypt.asia.mine.zergpool.com:6233 -u gb1qkyj5kalxgfu5spsy2yapcty2xpy74p6wp56jz9 -p c=BSTY,mc=BSTY,ID=M20
 ```
   * ✓ UIS Unitus Network yescrypt (XeggeX)
 ```

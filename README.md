@@ -35,6 +35,10 @@ sudo ./cpuminer -a yespower  -o stratum+tcp://stratum-na.rplant.xyz:7122 -u Qj1S
 sudo ./cpuminer -a yespowertide  -o stratum+tcp://stratum-asia.rplant.xyz:7059 -u TJvrFuL8rDRvRESCdhQxc2kHdDNYRGq8Kz.M20
 ```
 #### https://zergpool.com/
+  * ✓ AVN Avian Network minotaurx and x16rt (XeggeX)
+```
+cpuminer-avx512.exe -a minotaurx -o stratum+tcp://minotaurx.na.mine.zergpool.com:7019 -u RCeuCL6JoYMUTUK4uH2BKuMQe5uw6XDeWY -p c=AVN,ID=msi15
+```
   * ✓ BSTY GlobalBoost-Y Network yescrypt
      * Wallet_Probit
 ```

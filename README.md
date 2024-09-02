@@ -61,6 +61,10 @@ sudo ./cpuminer -a yescryptR16 -o stratum+tcp://yescryptR16.asia.mine.zergpool.c
 ```
 sudo ./cpuminer -a yespower -o stratum+tcp://yespower.asia.mine.zergpool.com:6533 -u Qf2ugpEDdBFfYWYeiX4sHRGBiamTAxXhZA -p c=QCH,mc=QCH,ID=MSI15
 ```
+  * ✓ YTN Yenten Network yespowerr16 (XeggeX)
+```
+cpuminer-avx512.exe -a yespowerr16 -o stratum+tcp://yespowerR16.na.mine.zergpool.com:6534 -u YcFr9Byhdth8eYnYV8fMdCBvrLXrvA4w7N -p c=YTN,mc=YTN,ID=msi15
+```
  
 ## Command line for Xmrig
 

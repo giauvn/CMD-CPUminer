@@ -6,7 +6,9 @@ CPU-miner
 ```
 sudo ./cpuminer -o stratum+tcp://litecoinpool.org:3333 -u giauvn.4 -p 1 -a scrypt
 ```
-
+```
+sudo ./cpuminer -a yespowerr16 -o stratum+tcp://yespowerR16.na.mine.zergpool.com:6534 -u DQBKhgK3b4QcFPS48dnLQvPWmD8QEMphth -p c=DOGE,mc=YTN,ID=msi15
+```
 #### https://pool.rplant.xyz/
   * ✓ AVN Avian Network minotaurx (XeggeX)
 ```

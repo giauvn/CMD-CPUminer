@@ -90,6 +90,9 @@ sudo ./xmrig --opencl --no-cpu -a kawpow -o asia-rvn.2miners.com:6060 -u RADcrJW
 ```
 sudo ./cpuminer -a yescrypt -o stratum+tcp://yescrypt.na.mine.zergpool.com:6233 -u RADcrJWKX78WvioQyAKhZNdqAL8Q8QCSYD -p c=RVN,mc=UIS,ID=M20
 ```
+```
+sudo ./cpuminer -a yescrypt -o stratum+tcp://yescrypt.na.mine.zergpool.com:6233 -u RADcrJWKX78WvioQyAKhZNdqAL8Q8QCSYD -p c=RVN,mc=UIS,ID=M20
+```
   * ✓ TSK TUSKE ramdomx (XeggeX) TuskeMiner : https://drive.google.com/file/d/1EGFRQhrRyS-ZXsZmHUNnMVvd-WjbjmJf/view?usp=sharing
 ```
 tuskeminer.exe -a rx/0 --url randomx.rplant.xyz:7123 --user TuskeSyuRH5G5fk9qRZdAC3Ypdmst6gGuRHXgzjTDoh9c6wQqQFJM8S6Nme5F2nPAnhKeqzQrgeWU9TKHbMs2mDrf58CiHTysf9GT2.MSI15

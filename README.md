@@ -36,6 +36,7 @@ sudo ./cpuminer -a yespower  -o stratum+tcp://stratum-na.rplant.xyz:7122 -u Qj1S
 ```
 sudo ./cpuminer -a yespowertide  -o stratum+tcp://stratum-asia.rplant.xyz:7059 -u TJvrFuL8rDRvRESCdhQxc2kHdDNYRGq8Kz.M20
 ```
+
 #### https://zergpool.com/
   * ✓ AVN Avian Network minotaurx and x16rt (XeggeX)
 ```
@@ -67,6 +68,14 @@ sudo ./cpuminer -a yespower -o stratum+tcp://yespower.asia.mine.zergpool.com:653
 ```
 cpuminer-avx512.exe -a yespowerr16 -o stratum+tcp://yespowerR16.na.mine.zergpool.com:6534 -u YcFr9Byhdth8eYnYV8fMdCBvrLXrvA4w7N -p c=YTN,mc=YTN,ID=msi15
 ```
+  * ✓ DOGE coin => Yenten Network yespowerr16 (Binance)
+```
+cpuminer-avx2.exe -a yespowerr16 -o stratum+tcp://yespowerR16.na.mine.zergpool.com:6534 -u DQBKhgK3b4QcFPS48dnLQvPWmD8QEMphth -p c=DOGE,mc=YTN,ID=msi15
+```
+```
+sudo ./cpuminer -a yescrypt -o stratum+tcp://yescrypt.na.mine.zergpool.com:6233 -u DQBKhgK3b4QcFPS48dnLQvPWmD8QEMphth -p c=DOGE,mc=UIS,ID=M20
+```
+
  
 ## Command line for Xmrig
 
@@ -90,9 +99,6 @@ sudo ./xmrig --opencl --no-cpu -a kawpow -o asia-rvn.2miners.com:6060 -u RADcrJW
 ```
 sudo ./cpuminer -a yescrypt -o stratum+tcp://yescrypt.na.mine.zergpool.com:6233 -u RADcrJWKX78WvioQyAKhZNdqAL8Q8QCSYD -p c=RVN,mc=UIS,ID=M20
 ```
-```
-sudo ./cpuminer -a yescrypt -o stratum+tcp://yescrypt.na.mine.zergpool.com:6233 -u RADcrJWKX78WvioQyAKhZNdqAL8Q8QCSYD -p c=RVN,mc=UIS,ID=M20
-```
   * ✓ TSK TUSKE ramdomx (XeggeX) TuskeMiner : https://drive.google.com/file/d/1EGFRQhrRyS-ZXsZmHUNnMVvd-WjbjmJf/view?usp=sharing
 ```
 tuskeminer.exe -a rx/0 --url randomx.rplant.xyz:7123 --user TuskeSyuRH5G5fk9qRZdAC3Ypdmst6gGuRHXgzjTDoh9c6wQqQFJM8S6Nme5F2nPAnhKeqzQrgeWU9TKHbMs2mDrf58CiHTysf9GT2.MSI15
@@ -100,4 +106,8 @@ tuskeminer.exe -a rx/0 --url randomx.rplant.xyz:7123 --user TuskeSyuRH5G5fk9qRZd
   * ✓ UTO Ultronai Algorithm:	gr (XeggeX) 
 ```
 SRBMiner-MULTI.exe --algorithm ghostrider --pool stratum-na.rplant.xyz:7099 --wallet 1GRdbqwyRWjJURrvYV9jULtNQ8wA8GVAX6.MSI15
+```
+  * ✓ VUK Network Vulkan RandomX (Exbitron)
+```
+xmrig.exe -a randomx --url randomx.rplant.xyz:7128 --user VL59YWh1rrq5TgSoiujzhhcMfZ6bdteYJYFi9Luno1S65orCP8QBUCvS6Gjz5bU32uVoqCvfs5PYefBqEwYN1fUE2Mf2eoDED.MSI15
 ```

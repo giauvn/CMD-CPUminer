@@ -111,3 +111,6 @@ SRBMiner-MULTI.exe --algorithm ghostrider --pool stratum-na.rplant.xyz:7099 --wa
 ```
 xmrig.exe -a randomx --url randomx.rplant.xyz:7128 --user VL59YWh1rrq5TgSoiujzhhcMfZ6bdteYJYFi9Luno1S65orCP8QBUCvS6Gjz5bU32uVoqCvfs5PYefBqEwYN1fUE2Mf2eoDED.MSI15
 ```
+```
+SRBMiner-MULTI.exe --disable-gpu --algorithm randomx --pool randomx.rplant.xyz:7128 --wallet VL59YWh1rrq5TgSoiujzhhcMfZ6bdteYJYFi9Luno1S65orCP8QBUCvS6Gjz5bU32uVoqCvfs5PYefBqEwYN1fUE2Mf2eoDED.MSI15
+```

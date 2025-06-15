@@ -118,3 +118,7 @@ xmrig.exe -a randomx --url randomx.rplant.xyz:7128 --user VL59YWh1rrq5TgSoiujzhh
 ```
 SRBMiner-MULTI.exe --disable-gpu --algorithm randomx --pool randomx.rplant.xyz:7128 --wallet VL59YWh1rrq5TgSoiujzhhcMfZ6bdteYJYFi9Luno1S65orCP8QBUCvS6Gjz5bU32uVoqCvfs5PYefBqEwYN1fUE2Mf2eoDED.MSI15
 ```
+* ✓ VUK Network Vulkan RandomX (Wallet)
+```
+SRBMiner-MULTI.exe --disable-gpu --algorithm randomx --pool randomx.rplant.xyz:7128 --wallet VU3fCsGXaCajTTyeS74hKYSzzy5Zj5fexXvA7scSav5UaKyg6NjZkcV3VuQojauGZMSgrCeNQsikEFUvHhuNw81q23pc42MBH.MSI15
+```

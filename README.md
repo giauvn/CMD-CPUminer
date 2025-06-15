@@ -36,6 +36,10 @@ sudo ./cpuminer -a yespower  -o stratum+tcp://stratum-na.rplant.xyz:7122 -u Qj1S
 ```
 sudo ./cpuminer -a yespowertide  -o stratum+tcp://stratum-asia.rplant.xyz:7059 -u TJvrFuL8rDRvRESCdhQxc2kHdDNYRGq8Kz.M20
 ```
+* ✓ Network microbitcoin MBC (XeggeX)
+```
+"%~dp0"cpuminer-avx512.exe -a power2b  -o stratum+tcp://stratum-na.rplant.xyz:7022 -u mbc1qwg4nv8ee75nvdn5jvk0lhxndvvk2awqa9vezk6.MSI15
+```
 
 #### https://zergpool.com/
   * ✓ AVN Avian Network minotaurx and x16rt (XeggeX)

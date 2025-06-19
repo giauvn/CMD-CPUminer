@@ -122,3 +122,7 @@ SRBMiner-MULTI.exe --disable-gpu --algorithm randomx --pool randomx.rplant.xyz:7
 ```
 SRBMiner-MULTI.exe --disable-gpu --algorithm randomx --pool randomx.rplant.xyz:7128 --wallet VU3fCsGXaCajTTyeS74hKYSzzy5Zj5fexXvA7scSav5UaKyg6NjZkcV3VuQojauGZMSgrCeNQsikEFUvHhuNw81q23pc42MBH.MSI15
 ```
+* ✓ Zephyr (ZEPH) RandomX (Xeggex)
+```
+SRBMiner-MULTI.exe --disable-gpu --algorithm randomx --pool zeph.2miners.com:2222 --wallet ZEPHsAAUGx99bmpFoQvheFES4a8D6GYUo5BL7VdHA8PGbxMFGy9xpcV9nFUNVa9GYnV9YvbMcDaDAguWFT6ygMiBJPwuSpwRSWo.MSI15 --keepalive true
+```

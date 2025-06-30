@@ -40,6 +40,10 @@ sudo ./cpuminer -a yespowertide  -o stratum+tcp://stratum-asia.rplant.xyz:7059 -
 ```
 "%~dp0"cpuminer-avx512.exe -a power2b  -o stratum+tcp://stratum-na.rplant.xyz:7022 -u mbc1qwg4nv8ee75nvdn5jvk0lhxndvvk2awqa9vezk6.MSI15
 ```
+Cold Wallet
+```
+"%~dp0"cpuminer-avx512.exe -a power2b  -o stratum+tcp://stratum-na.rplant.xyz:7022 -u mbc1qayqd34rpx6hameu5knn0ddd7n3398smhfzge2c.MSI15
+```
 
 #### https://zergpool.com/
   * ✓ AVN Avian Network minotaurx and x16rt (XeggeX)

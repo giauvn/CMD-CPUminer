@@ -14,6 +14,10 @@ sudo ./cpuminer -a yespowerr16 -o stratum+tcp://yespowerR16.na.mine.zergpool.com
 ```
 sudo ./cpuminer -a minotaurx  -o stratum+tcp://stratum-na.rplant.xyz:7068 -u RCeuCL6JoYMUTUK4uH2BKuMQe5uw6XDeWY.MSI15
 ```
+TradeOgre-2025
+```
+sudo ./cpuminer -a minotaurx  -o stratum+tcp://stratum-na.rplant.xyz:7068 -u RW2ABHsSNVLQfEgcHg9xuij8unfge6Kvvp.MSI15
+```
   * ✓ YTN Yenten Network yespowerr16 (XeggeX)
 ```
 sudo ./cpuminer -a yespowerr16 -o stratum+tcp://stratum-asia.rplant.xyz:3383 -u YcFr9Byhdth8eYnYV8fMdCBvrLXrvA4w7N.MSI15
